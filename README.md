@@ -1,0 +1,1 @@
+This reposititory contains a jupyter notebook to generate the figures in the JGR Oceans (submitted) paper "Relative roles of plume and coastal forcing on exchange flow variability in a glacial fjord". The notebook reads in netcdfs to make the figures. The netcdfs are stored on (future Zenodo link).
